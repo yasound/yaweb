@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Yasound</title>
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<link href="../fr - Copy/css/base.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.fastserv.com/player/player.js"></script>
+</head>
+<body>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="../fr - Copy/images/logo.png" width="285" height="86" alt="Logo Yasound" /></p>
+<p>&nbsp;</p>
+<h2 style="color:#999999">N'écoutez plus seul votre musique.<br />
+  Avec Yasound, créez votre radio en un instant,<br />
+  écoutez la musique avec vos amis,<br />
+  et communiquez avec eux en temps réel<br />
+  sur le net, et bientôt sur votre mobile.</h2>
+<p style="color:#c40101">Bientôt en ligne</p>
+
+<div id="metadata">
+  <p> <!-- Now Playing shows up here --> </p>
+</div>
+
+<div id="player"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to hear this stream.</div>
+<script type="text/javascript">
+    // SET THE FOLLOWING VARIABLES ACCORDING TO YOUR STREAM
+     var stream = 'http://ys-web01-vbo.alionis.net:8000/ubik';
+     var autostart = 'true';
+    // DO NOT EDIT ANYTHING BELOW THIS POINT
+     var so = new SWFObject('swf//player.swf','mpl','470','20','9');
+     so.addParam('allowscriptaccess','always');
+     so.addParam('allowfullscreen','false');
+     so.addVariable('autostart', autostart);
+     so.addVariable('file', stream);//+'%3Ftype%3D.flv');
+     so.write('player');
+</script>
+
+</body>
+</html>
