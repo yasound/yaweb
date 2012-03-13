@@ -3,8 +3,8 @@
 body {
 	padding: 0px;
 	margin: 0px;
-	font-family:Lucida Grande, Georgia, Helvetica, sans-serif;
-	font-size:18px;
+	font-family:Lucida Grande, Helvetica Neue, Helvetica, sans-serif;
+	font-size:16px;
 	background-color:#FFF;
 }
 #imgBack {
@@ -178,8 +178,8 @@ img.superbg {
 }
 h1 {
 	position:absolute;
-	font-size:40px;
-	line-height:40px;;
+    font-size:22pt;
+    line-height: 24pt;
 	right:320px;
 	bottom: 470px;
 	font-weight:normal;
@@ -187,23 +187,17 @@ h1 {
 	text-align:right;
 }
 #content1 h1 {
-//	color:#010c1e;
 	color:rgb(52,52,52);
-    font-size:22pt;
-    line-height: 24pt;
 }
 #content2 h1 {
 	color:#8c8673;
-	font-size:40px;
 }
 #content3 h1 {
 	color:#04615c;
-	font-size:40px;
 }
 
 #content4 h1 {
 	color:#402212;
-	font-size:40px;
 }
 .screen {
 	position:relative;
