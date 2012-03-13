@@ -68,7 +68,7 @@
       </tr>
       <tr>
         <td height="45" align="left" valign="middle"><img src="images/intro/icon33.png" width="35" height="35" /></td>
-        <td align="left" valign="middle">Je partage l'écoute de mes amis Facebook</td>
+        <td align="left" valign="middle">Je partage l'écoute avec mes amis Facebook</td>
       </tr>
       <tr>
         <td height="45" align="left" valign="middle"><img src="images/intro/icon34.png" width="35" height="35" /></td>
