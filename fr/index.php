@@ -40,9 +40,21 @@ header("Location:../mobile/index.php");
 <div id="logo"><img src="images/intro/logo.png" width="215" height="52" alt="Logo Yasound" /></div>
 <div id="content2">
   <h1 id="title2">Je crée ma radio en un instant</h1>
-  <div class="screen" style="background:url(images/intro/bvideo2.png) center top no-repeat;" id="screen2">
-    <div class="video" id="video2"><img src="images/intro/screen2.jpg" width="480" height="274" /></div>
-  </div>
+  <div class="screen" id="screen2">
+
+    <div class="video" id="video2">
+    <object width="480" height="270" id="youtube">
+    <param name="movie" value="http://www.youtube.com/v/YkFaWMN6Rsg?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0">
+    </param>
+    <param name="allowFullScreen" value="true">
+    </param>
+    <param name="allowscriptaccess" value="always">
+    </param>
+    <embed src="http://www.youtube.com/v/YkFaWMN6Rsg?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0" type="application/x-shockwave-flash" width="480" height="270" allowscriptaccess="always" allowfullscreen="true"></embed>
+    </object>
+    </div>
+
+</div>
   <div id="text2">
     <table width="400" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
