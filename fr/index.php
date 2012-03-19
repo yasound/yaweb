@@ -100,17 +100,19 @@ header("Location:../mobile/index.php");
 </div>
 <div id="content4">
   <h1 id="title3">Je découvre...</h1>
-  <div class="screen" style="background:url(images/intro/bvideo4.png) center top no-repeat;" id="screen4">
-    <div class="video" id="video4"><img src="images/intro/screen4.jpg" width="480" height="274" /></div>
-  </div>
-  <div id="text4">
+  <div id="screen4" style="position:absolute; top:0px; left:0px">
+    <img src="images/logo.png"/>
+
+    <div id="text4">
     <table width="505" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td height="100" align="center" valign="middle">...une multitude de radios,<br />
-          de styles et de nouveaux talents...</td>
-      </tr>
+    <tr>
+    <td height="100" align="center" valign="middle">...une multitude de radios,<br />
+    de styles et de nouveaux talents...</td>
+    </tr>
     </table>
-  </div>
+    </div>
+
+</div>
 </div>
 <div id="content1">
 <h1 id="title1">Avec Yasound, transformer votre mobile<br/>
