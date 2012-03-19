@@ -67,7 +67,7 @@ header("Location:../mobile/index.php");
       </tr>
       <tr>
         <td height="60" align="left" valign="middle"><img src="images/intro/icon23.png" width="49" height="48" /></td>
-        <td align="left" valign="middle">Ma radio est créée, gratuite, légale, diffusée 24/7 sur mobile et internet</td>
+        <td align="left" valign="middle">Ma radio est créée : elle est gratuite, légale, diffusée 24/7 sur mobiles et internet</td>
       </tr>
     </table>
   </div>
