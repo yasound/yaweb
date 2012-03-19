@@ -99,14 +99,11 @@ header("Location:../mobile/index.php");
   </div>
 </div>
 <div id="content4">
-  <h1 id="title3">Je découvre...</h1>
-  <div id="screen4" style="position:absolute; top:0px; left:0px">
-    <img src="images/logo.png"/>
-
+  <div id="screen4" style="position:absolute; top:50px; left:0px">
     <div id="text4">
-    <table width="505" border="0" cellspacing="0" cellpadding="0">
+    <table width="540" border="0" cellspacing="0" cellpadding="0">
     <tr>
-    <td height="100" align="center" valign="middle">...une multitude de radios,<br />
+    <td height="100" align="center" valign="middle">Je découvre une multitude de radios,<br />
     de styles et de nouveaux talents...</td>
     </tr>
     </table>
