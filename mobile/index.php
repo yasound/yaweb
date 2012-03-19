@@ -40,13 +40,13 @@ if ($detect->isAndroid()) { ?>
 <div id="video">
 
 
-<param name="movie" value="http://www.youtube.com/v/sIs7sIfsDYE?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0">
+<param name="movie" value="http://www.youtube.com/v/ysEpLi4ZWhs?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0">
 </param>
 <param name="allowFullScreen" value="true">
 </param>
 <param name="allowscriptaccess" value="always">
 </param>
-<embed class="embed" src="http://www.youtube.com/v/sIs7sIfsDYE?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"></embed>
+<embed class="embed" src="http://www.youtube.com/watch?v=ysEpLi4ZWhs" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 </div>
 

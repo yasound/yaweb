@@ -106,13 +106,13 @@ en station de radio est un jeu d'enfants</h1>
   <div class="screen" id="screen1">
     <div class="video" id="video1">
       <object width="480" height="270" id="youtube">
-        <param name="movie" value="http://www.youtube.com/v/sIs7sIfsDYE?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0">
+        <param name="movie" value="http://www.youtube.com/v/ysEpLi4ZWhs?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0">
         </param>
         <param name="allowFullScreen" value="true">
         </param>
         <param name="allowscriptaccess" value="always">
         </param>
-        <embed src="http://www.youtube.com/v/sIs7sIfsDYE?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0" type="application/x-shockwave-flash" width="480" height="270" allowscriptaccess="always" allowfullscreen="true"></embed>
+        <embed src="http://www.youtube.com/v/ysEpLi4ZWhs?version=3&amp;hl=fr_FR&amp;rel=0&amp;autohide=1&amp;color2=f2f2f0&amp;showinfo=0" type="application/x-shockwave-flash" width="480" height="270" allowscriptaccess="always" allowfullscreen="true"></embed>
       </object>
     </div>
   </div>
