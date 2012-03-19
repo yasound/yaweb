@@ -103,7 +103,7 @@ content="Avec Yasound, créez votre radio en un instant, écoutez la musique ave
 <div id="text4">
 <table width="540" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td height="100" align="center" valign="middle" style="text-align: right">Je découvre une multitude de radios,<br/>de styles et de nouveaux talents...</td>
+<td height="100" align="center" valign="middle" style="text-align: right; color: rgb(51,51,51)">Je découvre une multitude de radios,<br/>de styles et de nouveaux talents...</td>
 </tr>
 </table>
 </div>

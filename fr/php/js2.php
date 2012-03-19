@@ -17,7 +17,8 @@ var pBack = new Array('left','left','center','left');
 var mrCont = new Array('10%','10%','auto','10%');
 var slide = 1;
 var animX = new Array (0,100,-100,100,-100);
-var removedVideo = new Object();
+var removedVideo1 = new Object();
+var removedVideo2 = new Object();
 var wx = 0;
 var y = 0; 
 var z = 0;
@@ -34,11 +35,11 @@ function goToSlide(n) {
 	$('puce'+slide).set('class','puce');
 	if (slide==1) 
     {
-		removedVideo = $('video1').dispose();
+		removedVideo1 = $('video1').dispose();
 	}
 	else if (slide==2) 
     {
-		removedVideo = $('video2').dispose();
+		removedVideo2 = $('video2').dispose();
 	}
 
 	y1 = $('content'+slide).getPosition().y;
@@ -65,10 +66,10 @@ function goToSlide(n) {
 			$('droite').set('onclick', 'goToSlide('+(n+1)+')');
 			$('gauche').set('onclick', 'goToSlide('+(n-1)+')');
 			if (n==1) {
-				removedVideo.inject($('screen1'));
+				removedVideo1.inject($('screen1'));
 			}
            else	if (n==2) {
-           removedVideo.inject($('screen2'));
+           removedVideo2.inject($('screen2'));
            }
 
 		}
