@@ -99,7 +99,7 @@ header("Location:../mobile/index.php");
   </div>
 </div>
 <div id="content4">
-  <div id="screen4" style="position:absolute; top:50px; left:0px">
+  <div id="screen4" style="position:absolute; top:20px; left:0px">
     <div id="text4">
     <table width="540" border="0" cellspacing="0" cellpadding="0">
     <tr>
