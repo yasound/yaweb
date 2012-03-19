@@ -147,7 +147,7 @@ header("Location:../mobile/index.php");
   <div id="gauche">&nbsp;</div>
   <div id="droite">&nbsp;</div>
 </div>
-<div id="appstore"><img src="images/intro/appstore.png" width="167" height="53" alt="Bientôt sur App Store" /></div>
+<div id="appstore"><a href="http://itunes.apple.com/us/app/yasound/id492680161?ls=1&mt=8"><img src="images/intro/appstore_now.png" width="167" height="58"/></a></div>
 <div id="footer">
   <div id="puces">
     <div id="puce1" class="puceactive" onclick="goToSlide(1)"></div>

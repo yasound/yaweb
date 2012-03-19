@@ -50,7 +50,7 @@ if ($detect->isAndroid()) { ?>
 
 </div>
 
-    <img class="button" src="/mobile/maps/<? echo $gLang ?>/soon_appstore.png"/>
+    <a href="http://itunes.apple.com/us/app/yasound/id492680161?ls=1&mt=8"><img class="button" src="/mobile/maps/<? echo $gLang ?>/now_appStore.png"/></a>
 
 </div>
     

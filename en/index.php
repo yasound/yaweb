@@ -173,7 +173,7 @@ window.addEvent('domready', function() {
   <div id="content">
     <div id="menu"><span class="current">Home Page</span> | <a href="about_us.php">About us</a> | <a href="careers.php">Careers</a> | <a href="press.php">Press</a> | <a href="contact.php">Contact</a> <br />
       <span style="font-size: 18px; font-weight:bold">yasound </span><span style="font-size: 10px">© 2011 - All rights reserved</span></div>
-    <div id="app"><img src="images/app.png" width="264" height="45" alt="Bientôt sur AppStore et Android Market" /></div>
+    <div id="app"><a href="http://itunes.apple.com/us/app/yasound/id492680161?ls=1&mt=8"><img src="images/appstore_now.png" width="167" height="61" /></a></div>
   </div>
 </div>
 </body>
