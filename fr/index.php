@@ -37,7 +37,7 @@ header("Location:../mobile/index.php");
   <div id="imgBack2"><img src="images/intro/background2.jpg" width="2000" height="449" /></div>
   <div id="imgBack1"><img src="images/intro/background1.jpg" width="2000" height="449" /></div>
 </div>
-<div id="logo"><img src="images/intro/logo.png" width="215" height="52" alt="Logo Yasound" /></div>
+<div id="logo"><a href="#" onClick="goToSlide(1)"><img src="images/intro/logo.png" width="215" height="52" alt="Logo Yasound" /></a></div>
 <div id="content2">
   <h1 id="title2">Je crée ma radio en un instant</h1>
   <div class="screen" id="screen2">
