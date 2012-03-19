@@ -101,8 +101,8 @@ header("Location:../mobile/index.php");
   </div>
 </div>
 <div id="content1">
-  <h1 id="title1">Le 20 mars, transformer son mobile<br />
-    en station de radio sera un jeu d'enfants</span></h1>
+<h1 id="title1">Avec Yasound, transformer votre mobile<br/>
+en station de radio est un jeu d'enfants</h1>
   <div class="screen" id="screen1">
     <div class="video" id="video1">
       <object width="480" height="270" id="youtube">
