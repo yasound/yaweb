@@ -32,9 +32,15 @@ function goToSlide(n) {
 	$('imgBack'+slide).fade(0);
 	$('imgBack'+n).fade(1);
 	$('puce'+slide).set('class','puce');
-	if (slide==1) {
+	if (slide==1) 
+    {
 		removedVideo = $('video1').dispose();
 	}
+	else if (slide==2) 
+    {
+		removedVideo = $('video2').dispose();
+	}
+
 	y1 = $('content'+slide).getPosition().y;
 	y2 = $('content'+n).getPosition().y;
 	$('content'+slide).set('tween', {duration: 500});
@@ -61,6 +67,10 @@ function goToSlide(n) {
 			if (n==1) {
 				removedVideo.inject($('screen1'));
 			}
+           else	if (n==2) {
+           removedVideo.inject($('screen2'));
+           }
+
 		}
 		}
 	);
